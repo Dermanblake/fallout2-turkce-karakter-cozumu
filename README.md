@@ -29,7 +29,7 @@ Bir metin dosyasını çevirdiniz ve bu şekilde görünüyor diyelim
 ![12](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/5036cbb3-46cd-4a5d-9d42-89f63cdd3ca0)
 
 
-Şimdi yukarıda saydığım karakterleri değiştirmemiz gerekecek "ctrl+h" yapın çıkan ekranda aranan kısıma hangi harfi değiştirmek istiyorsanız onu yazın. daha sonra değiştir yerine o harfe karşılık gelen işareti girin ve tümünü değiştire basın.
+Şimdi yukarıda saydığım karakterleri değiştirmemiz gerekecek. "ctrl+h" yapın çıkan ekranda "aranan" kısmına hangi harfi değiştirmek istiyorsanız onu yazın. daha sonra "değiştir" yerine o harfe karşılık gelen işareti girin ve "tümünü değiştire" basın.
 ![10](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/2053fec8-66d8-439a-b471-1ca60dcc024a)
 
 
