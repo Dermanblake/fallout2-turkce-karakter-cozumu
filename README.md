@@ -26,9 +26,9 @@ notepad++ indirin ve kurun
 ![12](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/5036cbb3-46cd-4a5d-9d42-89f63cdd3ca0)
 
 Bir metin dosyasını çevirdiniz ve bu şekilde görünüyor diyelim
-  Resim10
+![10](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/2053fec8-66d8-439a-b471-1ca60dcc024a)
 Şimdi yukarıda saydığım karakterleri değiştirmemiz gerekecek "ctrl+h" yapın çıkan ekranda aranan kısıma hangi harfi değiştirmek istiyorsanız onu yazın. daha sonra değiştir yerine o harfe karşılık gelen işareti girin ve tümünü değiştire basın.
- Resim11
+![11](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/03abe16e-76ec-4b2e-84bd-b2812973441a)
 Bu şekilde olması gerekecek. aynı işlemleri diğer karakterler için de yapın ve dosyanızı kaydedin. Artık bu dosya için "çeviriniz" bitti oyun içinde düzgün bir biçimde görünecektir.
 
 
