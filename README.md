@@ -1,7 +1,7 @@
 # fallout2-turkce-font-cozumu
 Fallout 2 Türkçe font sorunu çözümü
 
-NOT: Font sorununun daha iyi bir çözüm yöntemi olursa issue isteği atın ve açıklayın. ben ancak bu şekilde çözebildim. ve tavsiyem çeviri yapacaksanız sanal makinede yapmanız yönünde. \n
+NOT: Font sorununun daha iyi bir çözüm yöntemi olursa issue isteği atın ve açıklayın. ben ancak bu şekilde çözebildim. ve tavsiyem çeviri yapacaksanız sanal makinede yapmanız yönünde. 
 Çeviri yapacaklar için adımlar:
 
 1 : 
