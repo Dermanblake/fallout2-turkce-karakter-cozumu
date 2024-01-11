@@ -42,7 +42,8 @@ En son dosyanızdaki karakterler bu şekilde olması gerekecek.
 Oyun içinden görseller.
 ![14](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/60b29bbd-2fde-4d65-a529-7feb0dcbfd2b)
 
-![15](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/8fb9146d-cff5-44be-81d5-f477c5f86f30)
+![15](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/004576bd-6818-4d40-ac0f-cb54114212cb)
+
 
 
 
