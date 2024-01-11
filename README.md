@@ -66,6 +66,7 @@ Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
    Program bildiğim kadarıyla rusça ama yine de işinizi görür. "https://fodev.net/files/fo2/tools.html" Bu linkten "AAF Editor" indirin ve başlatın
    
    Sol üstte "????" olan yere tıklayın (dediğim gibi program rusça hiçbir yazı yazmaması ???? olması sizde de olabilir.)
+
 ![1](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/8539eb9e-6e6d-436b-a563-9af34b36f568)
    Kırmızıyla işaretlediğim yere tıklayın
 ![acma](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c24aceda-8576-4680-8506-071b947c311c)
