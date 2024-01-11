@@ -68,7 +68,7 @@ Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
    Sol üstte "????" olan yere tıklayın (dediğim gibi program rusça hiçbir yazı yazmaması ???? olması sizde de olabilir.)
 
 ![1](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/8539eb9e-6e6d-436b-a563-9af34b36f568)
-Kırmızıyla işaretlediğim yere tıklayın
+                                            Kırmızıyla işaretlediğim yere tıklayın
 ![acma](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c24aceda-8576-4680-8506-071b947c311c)
 Daha sonra "font.aaf" uzantılı dosyaları nereye çıkardıysanız oradan dosyayı bulup açın
 ![4](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c4476703-013d-4107-9314-8da8ede9b395)
