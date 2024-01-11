@@ -39,6 +39,11 @@ Gördüğünüz gibi "ü" harfi yerine "/" geldi. aynı işlemleri diğer karakt
 En son dosyanızdaki karakterler bu şekilde olması gerekecek.
 ![133](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/3bed4ab8-973c-43dc-a889-3fe69f8ca5f6)
 
+Oyun içinden görseller.
+![14](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/60b29bbd-2fde-4d65-a529-7feb0dcbfd2b)
+
+![15](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/8fb9146d-cff5-44be-81d5-f477c5f86f30)
+
 
 
 
