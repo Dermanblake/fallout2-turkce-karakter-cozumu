@@ -46,7 +46,7 @@ Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
 
 1. Adım "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
    Bu program oyun dosyaları içerisinde diyalog,script gibi dosyalara erişmemizi sağlayacak. Programı çalıştırın ve oyun klasöründeki "master.dat" i açın direkt karşınıza orijinal .fon uzantılı dosyalar gelecek.    Dışarıya aktarmak istediğiniz dosyaları seçin ve sağ tıklayın. "Extract selected file(s)" diyerek herhangi bir konuma dosyaları çıkartın.
-   (Eğer metin dosyalarına oluşmak istiyorsanız text>english yerinde olan ".msg" uzantılı dosyalar oyun içindeki diyaloglara ait çeviri yapmak isterseniz buradaki dosyaları düzenleyeceksiniz.)
+   (Eğer metin dosyalarına ulaşmak istiyorsanız text>english yerinde olan ".msg" uzantılı dosyalar oyun içindeki diyaloglara ait. çeviri yapmak isterseniz buradaki dosyaları düzenleyeceksiniz.)
 
 2. Adım ".aaf editor":
    Program bildiğim kadarıyla rusça ama yine de işinizi görür. "https://fodev.net/files/fo2/tools.html" Bu linkten "AAF Editor" indirin ve başlatın
@@ -57,7 +57,7 @@ Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
 ![acma](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c24aceda-8576-4680-8506-071b947c311c)
    Daha sonra "font.aaf" uzantılı dosyaları nereye çıkardıysanız oradan dosyayı bulup açın
 ![4](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c4476703-013d-4107-9314-8da8ede9b395)
-   Şimdi düzenleme kısmına gelelim sağ tarafta gördüğünüz yerden tek tek pikselleri boyamanız gerekiyor. Maviyle işaretlediğim yerde de karakterler arasında geçiş yapabiliyorsunuz.
+   Şimdi düzenleme kısmına gelelim. sağ tarafta gördüğünüz yerden tek tek pikselleri boyamanız gerekiyor. Maviyle işaretlediğim yerde de karakterler arasında geçiş yapabiliyorsunuz.
    Burada kullanılmayan bir ASCII karakterini herhangi bir türkçe karakter yapalım örneğin ">" işaretini "ç,ş,ö" yapıcaz. Bu sadece bir örnek ">" işaretini "ç" ye çevirmek istediniz diyelim. ">" işaretini bulun ardından sağ panelden o fontu boyayın ve "ç" çizin.
    Bu adımları font0.aaf,FONT1.AAF ... nereye kadar o karakter gidiyorsa tek tek çizmeniz gerekecek.
    Tüm bu işlemleri yaptıktan sonra artık bir fontu oyun içinde değiştirdiniz. Örneğin: "<" işaretini "ş" yaptınız. diyalog dosyalarında bu işaret oyun içinde "ş" olarak görünecek.
