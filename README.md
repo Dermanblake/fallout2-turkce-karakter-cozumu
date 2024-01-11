@@ -14,7 +14,7 @@ notepad++ indirin ve kurun
 
 
 
-3:
+3: (Burası önemli)
  ".msg" dosyalarında türkçe karakterler yerine kullanılan ifadeler:
   "@" = "ç" harfine karşılık geliyor
   "<" = "ğ" harfine karşılık geliyor
