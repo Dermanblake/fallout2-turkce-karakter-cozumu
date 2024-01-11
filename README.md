@@ -3,8 +3,10 @@ Fallout 2 Türkçe font sorunu çözümü
 
 Çeviri yapacaklar için adımlar:
 
-1 : notepad++ indirin ve kurun
-2 : "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
+1 : 
+notepad++ indirin ve kurun
+2 : 
+ "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
    İndirin ve programı başlatın "open" sekmesinden "master.dat" dosyasını açın ve attığım font dosyalarını buraya atın. bu kadar fontlar değişti. eğer diyalog dosyalarını da almak istiyorsanız aşşağıdaki "text" yerinden diyalog dosyalarını çıkartabilirsiniz.
 ![8](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/b1d5789e-7c18-4ec3-89e3-ee7298f418b0)
 
