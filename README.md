@@ -36,6 +36,10 @@ Bir metin dosyasını çevirdiniz ve bu şekilde görünüyor diyelim
 Gördüğünüz gibi "ü" harfi yerine "/" geldi. aynı işlemleri diğer karakterler için de yapın ve dosyanızı kaydedin. Artık bu dosya için "çeviriniz" bitti oyun içinde düzgün bir biçimde görünecektir.
 ![11](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/03abe16e-76ec-4b2e-84bd-b2812973441a)
 
+En son dosyanızdaki karakterler bu şekilde olması gerekecek.
+![133](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/3bed4ab8-973c-43dc-a889-3fe69f8ca5f6)
+
+
 
 
 
