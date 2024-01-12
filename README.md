@@ -58,7 +58,7 @@ Fallout 1 ve 2'de diyaloglar ASCII ile yazıldığı için diyaloglarda türkçe
 Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
 
 1. Adım "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
-   Bu program oyun dosyaları içerisinde diyalog,script gibi dosyalara erişmemizi sağlayacak. Programı çalıştırın ve oyun klasöründeki "master.dat" i açın. direkt karşınıza orijinal .fon uzantılı dosyalar gelecek.    Dışarıya aktarmak istediğiniz dosyaları seçin ve sağ tıklayın. "Extract selected file(s)" diyerek herhangi bir konuma dosyaları çıkartın.
+   Bu program oyun dosyaları içerisinde diyalog,script gibi dosyalara erişmemizi sağlayacak. Programı çalıştırın ve oyun klasöründeki "master.dat" i açın. direkt karşınıza orijinal .aaf uzantılı dosyalar gelecek.    Dışarıya aktarmak istediğiniz dosyaları seçin ve sağ tıklayın. "Extract selected file(s)" diyerek herhangi bir konuma dosyaları çıkartın.
    (Eğer metin dosyalarına ulaşmak istiyorsanız text>english yerinde olan ".msg" uzantılı dosyalar oyun içindeki diyaloglara ait. çeviri yapmak isterseniz buradaki dosyaları düzenleyeceksiniz.)
 
 2. Adım ".aaf editor":
