@@ -82,5 +82,7 @@ Tüm bu işlemleri yaptıktan sonra artık bir fontu oyun içinde değiştirdini
 ![7](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c019dbe1-15db-4f93-bdfc-95841637addb)
 Kaydetmek için kırmızıyla gösterdiğim yere tıklayın ve istediğiniz bir yere kaydedin.
 Tüm ".aaf" uzantılı düzenledikten sonra orijinal "font.aaf" dosyalarıyla yer değiştirin. font dosyalarının aynı isimde olmasına dikkat edin ve oyun içinden fontlar çalışıyo mu diye kontrol edin. 
+
+Not: "{" "}" "(" ")" "%" "#" bu karakterleri değiştirmeyin oyun içinde sıkıntı yaratabilir.
    
    
