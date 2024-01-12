@@ -41,7 +41,7 @@ Artık tüm kelimelerdeki "ü" harfi yerine "/" geldi. aynı işlemleri diğer k
 En son dosyanızdaki karakterler bu şekilde olması gerekecek.
 
 ![133](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/3bed4ab8-973c-43dc-a889-3fe69f8ca5f6)
-ÖNEMLİ: Oyun içinden aldığınız ".msg" dosyalarının bazıları notepad++ da ASCII olarak geliyor (notepad++ da sağ altta görünen kısım). Diller kısmından UTF-8'e çevirin. Dil ayarını UTF-8 yapmazsanız çeviri yapıp kaydettikten sonra dosyayı tekrar açarsanız türkçe karakterler gitmiş olur.
+ÖNEMLİ: Oyun içinden aldığınız ".msg" dosyalarının bazıları notepad++ da ASCII olarak geliyor (notepad++ da sağ altta görünen kısım). Diller kısmından UTF-8'e çevirin. Dil ayarını UTF-8 yapmazsanız çeviri yapıp kaydettikten sonra dosyayı tekrar açtığınızda türkçe karakterler gitmiş olur. Bu yüzden notepad++ da her diyalog dosyası için sağ altta UTF-8 yazmasına dikkat edin.
 
 
 Oyun içinden görseller.
