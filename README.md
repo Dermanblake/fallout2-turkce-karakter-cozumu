@@ -8,7 +8,7 @@ NOT: Font sorununun daha iyi bir çözüm yöntemi olursa issue isteği atın ve
 notepad++ indirin ve kurun
 2 : 
  "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
-   İndirin ve programı başlatın "open" sekmesinden "master.dat" dosyasını açın ve attığım font dosyalarını buraya atın. bu kadar fontlar değişti. eğer diyalog dosyalarını da almak istiyorsanız aşağıdaki "text" yerinden diyalog dosyalarını çıkartabilirsiniz.
+   İndirin ve programı başlatın "open" sekmesinden "master.dat" dosyasını açın ve attığım font dosyalarını buraya yapıştırın. bu kadar fontlar değişti. eğer diyalog dosyalarını da almak istiyorsanız aşağıdaki "text" yerinden diyalog dosyalarını çıkartabilirsiniz.
 ![8](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/b1d5789e-7c18-4ec3-89e3-ee7298f418b0)
 
 
@@ -58,7 +58,7 @@ Fallout 1 ve 2'de diyaloglar ASCII ile yazıldığı için diyaloglarda türkçe
 Bu font sorununu düzeltmek için font dosyalarını düzenlemek gerekecek.
 
 1. Adım "Fallout DAT Explorer II": "https://www.nma-fallout.com/resources/fallout-dat-explorer-ii.140/"
-   Bu program oyun dosyaları içerisinde diyalog,script gibi dosyalara erişmemizi sağlayacak. Programı çalıştırın ve oyun klasöründeki "master.dat" i açın direkt karşınıza orijinal .fon uzantılı dosyalar gelecek.    Dışarıya aktarmak istediğiniz dosyaları seçin ve sağ tıklayın. "Extract selected file(s)" diyerek herhangi bir konuma dosyaları çıkartın.
+   Bu program oyun dosyaları içerisinde diyalog,script gibi dosyalara erişmemizi sağlayacak. Programı çalıştırın ve oyun klasöründeki "master.dat" i açın. direkt karşınıza orijinal .fon uzantılı dosyalar gelecek.    Dışarıya aktarmak istediğiniz dosyaları seçin ve sağ tıklayın. "Extract selected file(s)" diyerek herhangi bir konuma dosyaları çıkartın.
    (Eğer metin dosyalarına ulaşmak istiyorsanız text>english yerinde olan ".msg" uzantılı dosyalar oyun içindeki diyaloglara ait. çeviri yapmak isterseniz buradaki dosyaları düzenleyeceksiniz.)
 
 2. Adım ".aaf editor":
@@ -81,6 +81,6 @@ Tüm bu işlemleri yaptıktan sonra artık bir fontu oyun içinde değiştirdini
 
 ![7](https://github.com/Dermanblake/fallout2-turkce-font-cozumu/assets/155254976/c019dbe1-15db-4f93-bdfc-95841637addb)
 Kaydetmek için kırmızıyla gösterdiğim yere tıklayın ve istediğiniz bir yere kaydedin.
-   
+Tüm ".aaf" uzantılı düzenledikten sonra orijinal "font.aaf" dosyalarıyla yer değiştirin. font dosyalarının aynı isimde olmasına dikkat edin ve oyun içinden fontlar çalışıyo mu diye kontrol edin. 
    
    
