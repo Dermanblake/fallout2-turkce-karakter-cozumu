@@ -5,6 +5,7 @@ NOT: Font sorununun daha iyi bir çözüm yöntemi olursa issue isteği atın ve
 Çeviri yapacaklar için adımlar:
 NOT2: Attığım fontlar Fallout 1 için çalışıyor mu kontrol etmedim. Muhtemelen çalışıyordur yine de kontrol edin.
 
+
 1 : 
 notepad++ indirin ve kurun
 2 : 
