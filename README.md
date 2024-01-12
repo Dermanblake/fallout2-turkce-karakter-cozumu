@@ -20,7 +20,7 @@ notepad++ indirin ve kurun
   ">" = "ş" harfine karşılık geliyor
   "^" = "ö" harfine karşılık geliyor
   "/" = "ü" harfine karşılık geliyor
-  bu karakterler sadece küçük harf dikkat edin büyük harf değiller. Yani oyun içinde "Ü"-"ü" olacak
+  bu karakterler sadece küçük harf dikkat edin büyük harf değiller. Yani oyun içinde "Ş"-"ş" olacak
   "İ" leri "I" harfine çevirin çünkü onun fontunu ayarlamadım.
   "ı" ları ise "i" yapın aksi taktirde hiçbir şey okunmaz
   
