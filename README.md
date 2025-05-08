@@ -1,6 +1,10 @@
 # fallout2-turkce-karakter-cozumu
 Fallout 2 Türkçe karakter sorunu çözümü
 
+***GÜNCELLEME*** Fontların bazı yerlerde hatalı çalıştığını farkettim. Vaktim olduğunda Çekçe'de ve Lehçe'de bizim harflerimize benzer harfleri değiştirip tekrar yükleyeceğim.
+
+
+
 NOT: Font sorununun daha iyi bir çözüm yöntemi olursa issue isteği atın ve açıklayın. ben ancak bu şekilde çözebildim. ve tavsiyem çeviri yapacaksanız sanal makinede yapmanız yönünde. 
 NOT2: Attığım fontlar Fallout 1 için çalışıyor mu kontrol etmedim. Muhtemelen çalışıyordur yine de kontrol edin.
 Çeviri yapacaklar için adımlar:
